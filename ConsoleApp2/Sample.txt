@@ -1,0 +1,7 @@
+﻿IS LL1:
+S->Aa|b
+A->c|ε
+
+IS NOT LL1:
+S->Aa|Ab
+A->c|ε
